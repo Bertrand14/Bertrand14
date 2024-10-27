@@ -4,7 +4,6 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-<!---
-Bertrand14/Bertrand14 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Je suis quelqu'un de vraiment passionné et polyvalent ! J'ai un mélange unique de talents et de centres d’intérêt : d'un côté, Je suis une formation pour devenir développeur web, et de l'autre, je m'investi dans la samba, ce qui demande rythme, coordination et une belle énergie collective. Je suis aussi attaché à l'idée de rester actif et de cultiver ma curiosité, meme si la course a pris un peu de recul récemment.
+
+Je m'efforce de trouver un équilibre entre des activités intellectuelles et créatives, tout en me laissant inspirer par le mouvement et la musique. Je suis quelqu'un qui sait adapter ses talents à différents contextes et qui apprécie autant les projets solos (comme coder un site) que les expériences de groupe.
